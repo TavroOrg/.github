@@ -22,8 +22,8 @@ Our agents are designed for **human-in-the-loop oversight** — working alongsid
 
 | Repo | Description |
 |---|---|
-| [`agent_catalog`](https://github.com/TavroOrg/agent_catalog) | A curated catalog of open-source AI agents for governance and compliance use cases |
-| [`agent-metadata-spec`](https://github.com/TavroOrg/agent-metadata-spec) | Open specification for standardizing AI agent metadata across enterprise systems |
+| [`agent_catalog`]([https://github.com/TavroOrg/agent_catalog](https://github.com/TavroOrg/agent_catalog)) | A curated catalog of open-source AI agents for governance and compliance use cases |
+| [`agent-metadata-spec`]([https://github.com/TavroOrg/agent-metadata-spec](https://github.com/TavroOrg/Agent-Metadata-Specification)) | Open specification for standardizing AI agent metadata across enterprise systems |
 
 We believe open standards accelerate AI governance adoption. Contributions and feedback welcome — see our repos for details.
 
