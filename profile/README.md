@@ -33,7 +33,7 @@ We believe open standards accelerate AI governance adoption. Contributions and f
 
 - 🌐 **Website** — [tavro.ai](https://tavro.ai)
 - 💬 **Discussions** — Ask questions or share ideas in our [agent_catalog discussions](https://github.com/TavroOrg/agent_catalog/discussions)
-- 📬 **Contact** — Reach us at [hello@tavro.ai](mailto:hello@tavro.ai)
+- 📬 **Contact** — Reach us at [info@tavro.ai](mailto:hello@tavro.ai)
 - 🔗 **LinkedIn** — [Tavro AI](https://linkedin.com/company/tavro-ai)
 
 ---
