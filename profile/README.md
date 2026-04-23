@@ -1,41 +1,46 @@
-# Tavro AI 🤖
+## What is Tavro?
 
-**AI governance, risk management, and compliance — automated.**
+Enterprises are deploying AI agents faster than they can govern them. Tavro closes that gap.
 
-Tavro builds specialized AI agents that help enterprises govern their data and AI assets. We automate high-effort tasks like software inventory cleansing, data risk register creation, and cloud data maturity assessments — so your governance teams spend less time on spreadsheets and more time on decisions.
+Tavro is an **Agent Business Context Management** platform — a three-layer architecture that ensures every AI agent in your organization carries the business, regulatory, and risk context it needs to operate safely and compliantly.
 
----
-
-## What we build
-
-| Agent | What it does |
-|---|---|
-| **Software Inventory Cleanser** | Deduplicates and enriches software records for accurate AI/data asset visibility |
-| **Data Risk Register** | Automatically identifies and classifies data risks across enterprise systems |
-| **Cloud Data Maturity Assessor** | Evaluates your cloud data management maturity against industry frameworks |
-
-Our agents are designed for **human-in-the-loop oversight** — working alongside data governance leaders to produce auditable, reliable results.
+Built for complex, regulated sectors: **banking · healthcare · insurance · energy · public sector**
 
 ---
 
-## Open source
+## Platform architecture
 
-| Repo | Description |
-|---|---|
-| [`agent_catalog`]([https://github.com/TavroOrg/agent_catalog](https://github.com/TavroOrg/agent_catalog)) | A curated catalog of open-source AI agents for governance and compliance use cases |
-| [`agent-metadata-spec`]([https://github.com/TavroOrg/agent-metadata-spec](https://github.com/TavroOrg/Agent-Metadata-Specification)) | Open specification for standardizing AI agent metadata across enterprise systems |
+### 🔵 Open Standard — Agent Metadata Specification (AMS)
+Defines how agents describe themselves: risk profile, business context, technical footprint, and regulatory obligations. The universal language for AI agent governance.
 
-We believe open standards accelerate AI governance adoption. Contributions and feedback welcome — see our repos for details.
+### 🟢 Open Source — Agent Catalog
+Enables organizations to catalog, discover, and trace AI agents — including lineage, ownership, and integration with business processes. Free and open for the ecosystem.
+
+### 🟠 Enterprise SaaS — Tavro Platform
+The full governance suite for regulated enterprises:
+- Automated risk scoring across your AI agent estate
+- EU AI Act compliance automation
+- GRC (Governance, Risk & Compliance) workflow automation
+- Real-time risk dashboards
+- Deep integrations with ServiceNow and Microsoft Copilot
+
+---
+
+We believe open standards are the foundation of trustworthy AI. Contributions, issues, and RFCs are welcome.
 
 ---
 
 ## Get involved
 
-- 🌐 **Website** — [tavro.ai](https://tavro.ai)
-- 💬 **Discussions** — Ask questions or share ideas in our [agent_catalog discussions](https://github.com/TavroOrg/agent_catalog/discussions)
-- 📬 **Contact** — Reach us at [info@tavro.ai](mailto:hello@tavro.ai)
-- 🔗 **LinkedIn** — [Tavro AI](https://linkedin.com/company/tavro-ai)
+| | |
+|---|---|
+| 🌐 Website | [tavro.ai](https://tavro.ai) |
+| 💬 Discussions | [Community discussions](https://github.com/TavroOrg/tavro/discussions) |
+| 📬 Contact | [info@tavro.ai](mailto:info@tavro.ai) |
+| 🔗 LinkedIn | [linkedin.com/company/tavro-ai](https://linkedin.com/company/tavro-ai) |
 
 ---
 
-<sub>Tavro AI · Part of the responsible AI ecosystem · Built for data governance leaders</sub>
+<p align="center">
+  <sub>Tavro AI · Agent Business Context Management · </sub>
+</p>
