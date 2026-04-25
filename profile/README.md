@@ -35,7 +35,6 @@ We believe open standards are the foundation of trustworthy AI. Contributions, i
 | | |
 |---|---|
 | 🌐 Website | [tavro.ai](https://tavro.ai) |
-| 💬 Discussions | [Community discussions](https://github.com/TavroOrg/tavro/discussions) |
 | 📬 Contact | [info@tavro.ai](mailto:info@tavro.ai) |
 | 🔗 LinkedIn | [linkedin.com/company/tavro-ai](https://linkedin.com/company/tavro-ai) |
 
