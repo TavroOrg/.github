@@ -13,7 +13,7 @@ Built for complex, regulated sectors: **banking · healthcare · insurance · en
 ### 🔵 Open Standard — Agent Metadata Specification (AMS)
 Defines how agents describe themselves: risk profile, business context, technical footprint, and regulatory obligations. The universal language for AI agent governance.
 
-### 🟢 Open Source — Tavro Agent Catalog
+### 🟢 Open Source — Tavro Agent Catalog on AWS
 Enables organizations to catalog, discover, and trace AI agents — including lineage, ownership, and integration with business processes. Free and open for the ecosystem.
 
 ### 🟠 Enterprise SaaS — Tavro Platform
