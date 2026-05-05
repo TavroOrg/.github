@@ -8,16 +8,26 @@ Built for complex, regulated sectors: **banking · healthcare · insurance · en
 
 ---
 
-## Platform architecture
+## Platform Architecture
 
 ### 🔵 Open Standard — Agent Metadata Specification (AMS)
+
 Defines how agents describe themselves: risk profile, business context, technical footprint, and regulatory obligations. The universal language for AI agent governance.
 
 ### 🟢 Open Source — Tavro Agent Catalog on AWS
+
 Enables organizations to catalog, discover, and trace AI agents — including lineage, ownership, and integration with business processes. Free and open for the ecosystem.
 
+### 🟡 Open Source — Tavro Local Stack
+
+Open-source local environment for exploring Tavro's AI agent risk and governance tools. Spin up the full stack with one Docker command and connect it to Claude and ChatGPT
+
+👉 [tavro](https://github.com/TavroOrg/tavro)
+
 ### 🟠 Enterprise SaaS — Tavro Platform
+
 The full governance suite for regulated enterprises:
+
 - Automated risk scoring across your AI agent estate
 - EU AI Act compliance automation
 - GRC (Governance, Risk & Compliance) workflow automation
@@ -30,7 +40,7 @@ We believe open standards are the foundation of trustworthy AI. Contributions, i
 
 ---
 
-## Get involved
+## Get Involved
 
 | | |
 |---|---|
