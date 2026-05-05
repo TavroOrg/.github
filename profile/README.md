@@ -18,7 +18,7 @@ Defines how agents describe themselves: risk profile, business context, technica
 
 Enables organizations to catalog, discover, and trace AI agents — including lineage, ownership, and integration with business processes. Free and open for the ecosystem.
 
-### 🟡 Open Source — Tavro Local Stack
+### 🟡 Open Source — Tavro Agent Catalog
 
 Open-source local environment for exploring Tavro's AI agent risk and governance tools. Spin up the full stack with one Docker command and connect it to Claude and ChatGPT
 
