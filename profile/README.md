@@ -22,8 +22,6 @@ Enables organizations to catalog, discover, and trace AI agents — including li
 
 Open-source local environment for exploring Tavro's AI agent risk and governance tools. Spin up the full stack with one Docker command and connect it to Claude and ChatGPT
 
-👉 [tavro](https://github.com/TavroOrg/tavro)
-
 ### 🟠 Enterprise SaaS — Tavro Platform
 
 The full governance suite for regulated enterprises:
