@@ -46,5 +46,5 @@ We believe open standards are the foundation of trustworthy AI. Contributions, i
 ---
 
 <p align="center">
-  <sub>Tavro AI · Agent Business Context Management · </sub>
+  <sub>Tavro AI · Agent BizOps · </sub>
 </p>
