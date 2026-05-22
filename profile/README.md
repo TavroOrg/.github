@@ -1,37 +1,34 @@
 ## What is Tavro?
 
-Enterprises are deploying AI agents faster than they can govern them. Tavro closes that gap.
+<div align="center">
+  <img src="agentbizops3.png" alt="Agent BizOps" width="400">
+</div>
 
-Tavro is an **Agent Business Context Management** platform — a three-layer architecture that ensures every AI agent in your organization carries the business, regulatory, and risk context it needs to operate safely and compliantly.
+Enterprise adoption of AI Agents is a huge challenge.
 
-Built for complex, regulated sectors: **banking · healthcare · insurance · energy · public sector**
+Tavro is an **Agent BizOps** Platform to agentify agent adoption including initial risk assessment, what-if analysis, and integration with agent development. Tavro offers a three-layer architecture that ensures every AI agent in your organization carries the business, regulatory, and risk context it needs to operate safely and compliantly.
 
 ---
 
 ## Platform Architecture
 
-### 🔵 Open Standard — Agent Metadata Specification (AMS)
+### 🔵 Open Standard — Agent BizOps Powered by Agent Metadata Specification (AMS)
 
 Defines how agents describe themselves: risk profile, business context, technical footprint, and regulatory obligations. The universal language for AI agent governance.
 
-### 🟢 Open Source — Tavro Agent Catalog on AWS
+### 🟡 Open Source — Tavro Agent BizOps
 
-Enables organizations to catalog, discover, and trace AI agents — including lineage, ownership, and integration with business processes. Free and open for the ecosystem.
-
-### 🟡 Open Source — Tavro Agent Catalog
-
-Open-source local environment for exploring Tavro's AI agent risk and governance tools. Spin up the full stack with one Docker command and connect it to Claude and ChatGPT
+Open-source local environment for exploring Tavro's Agent BizOps platform. Spin up the full stack with one Docker command and connect it to Claude and ChatGPT via MCP Server.
 
 ### 🟠 Enterprise SaaS — Tavro Platform
 
 The full governance suite for regulated enterprises:
 
-- Automated risk scoring across your AI agent estate
-- EU AI Act compliance automation
-- GRC (Governance, Risk & Compliance) workflow automation
-- Real-time risk dashboards
+- Auto-generate AI Use Cases
+- Auto-generate AI Agent Prototypes
+- Automated risk scoring for AI Agents
 - Deep integrations with ServiceNow and Microsoft Copilot
-
+- Sample AI Use Cases and Integrations
 ---
 
 We believe open standards are the foundation of trustworthy AI. Contributions, issues, and RFCs are welcome.
